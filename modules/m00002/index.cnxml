@@ -1,4 +1,7 @@
 <document xmlns="http://cnx.rice.edu/cnxml">
+  <metadata mdml-version="0.5" xmlns:md="http://cnx.rice.edu/mdml">
+    <md:title>Introduction</md:title>
+  </metadata>
   <content>
     <para>Missing a title! Oh no!</para>
     <para>Also an orphan :(</para>
