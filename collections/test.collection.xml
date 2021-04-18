@@ -9,6 +9,7 @@
       <md:title>subcollection</md:title>
       <col:content>
         <col:module document="m00001" />
+        <col:module document="m00002" />
         <col:module document="m00003" />
       </col:content>
     </col:subcollection>
